@@ -29,7 +29,7 @@ Check out the full working demonstration of the RADIUS Diagnostic Suite on YouTu
 
 <div align="center">
   <img src="images/Dashboard.png" alt="Analyzer Dashboard">
-  <p><i>Password Analysis Interface</i></p>
+  <p><i>RADIUS Diagnostic Suite</i></p>
 </div>
 
 ## 🚀 Getting Started
